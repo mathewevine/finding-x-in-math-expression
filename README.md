@@ -9,3 +9,5 @@ Output: 2
 
 Input: "1x0 * 12 = 1200
 Output: 0
+
+####### Author: Evine Mathew, mathewevine@gmail.com #######
